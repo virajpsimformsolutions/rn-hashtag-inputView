@@ -1,0 +1,43 @@
+{
+  "name": "rn-hashtag-inputview",
+  "version": "1.0.0",
+  "description": "Multiple Hashtag manage",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajpsimformsolutions/rn-hashtag-inputView.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "hashtag",
+    "hasttagview",
+    "mutipleHashtag"
+  ],
+  "author": "Simform Solutions",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/virajpsimformsolutions/rn-hashtag-inputView/issues"
+  },
+  "homepage": "https://github.com/virajpsimformsolutions/rn-hashtag-inputView#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.13",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
